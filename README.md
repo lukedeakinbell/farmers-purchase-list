@@ -16,7 +16,10 @@ Calculate the total price and confirm or cancel the order.
 
 Admin Section: The admin section provides the following functionalities:
 
-Login with a username and password.
+Login with a username and password. The credentials are as follows:
+username: admin
+password: password
+
 View the current list of products and prices.
 Add new products to the list, specifying the product name and price.
 Update the price of an existing product.
